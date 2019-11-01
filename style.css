@@ -1,7 +1,7 @@
 @import url('https://rsms.me/inter/inter.css');
 
 html{
-background: #3c3c3c;
+background: #1e2431;
 margin: 0;
 color: #fff;
 line-height: 1.4em;
@@ -47,7 +47,7 @@ h1{
 }
 
 img{
-  filter:contrast(100%);
+  filter:contrast(110%);
   border-radius: 4px;
   max-width: 540px;
   box-shadow: 0px 2px 12px -8px rgba(0, 0, 0, 1);
@@ -55,7 +55,7 @@ img{
 }
 
 img:hover{
-  filter:contrast(110%);
+  filter:contrast(125%);
   box-shadow: 0px 4px 16px -4px rgba(0, 0, 0, 0.75) ;
 }
 
@@ -84,7 +84,7 @@ img:hover{
   }
 
   img{
-    border-radius: 0px;
+    border-radius: 6px;
     max-width: 94vw;
   }
 
